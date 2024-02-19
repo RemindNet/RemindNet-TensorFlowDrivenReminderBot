@@ -1,3 +1,8 @@
+'''
+file for checking nltk module
+'''
+
+
 from nltk.classify import extract_datetime
 from datetime import datetime
 text = "Remind me at 10:30 in the afternoon"
